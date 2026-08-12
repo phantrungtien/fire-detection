@@ -1,0 +1,7 @@
+file,base,size_mb,precision,recall,mAP50,mAP50_95,fitness,classes
+best_nano_111.pt,yolo11n.pt,5.5,0.8068,0.7172,0.7694,0.4921,0.5198,"{0: 'Fire', 1: 'Smoke'}"
+best_nano.pt,yolo11n.pt,5.5,0.8015,0.7304,0.7768,0.4884,0.5173,"{0: 'Fire', 1: 'Smoke'}"
+best_small.pt,yolo11s.pt,19.2,0.7721,0.7373,0.7713,0.4812,0.5102,"{0: 'Fire', 1: 'Smoke'}"
+yolo11-d-fire-dataset.pt,yolo11n.pt,5.5,0.7841,0.7237,0.7856,0.4712,0.5026,"{0: 'smoke', 1: 'fire'}"
+best_medium.pt,yolo11m.pt,40.5,0.7826,0.636,0.7202,0.4265,0.4559,"{0: 'Fire', 1: 'Smoke'}"
+best_large.pt,yolo11l.pt,51.2,0.773,0.6247,0.6865,0.4188,0.4456,"{0: 'Fire', 1: 'Smoke'}"
